@@ -1,1 +1,14 @@
-
+[
+    {
+        "id": 1,
+        "nom": "Youssef",
+        "prenom": "youssef@gmail.com",
+        "email": "Agdam"
+    },
+    {
+        "id": 2,
+        "nom": "DIALO",
+        "prenom": "youssef@gmail.com",
+        "email": "MAMADO"
+    }
+]
